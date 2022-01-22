@@ -23,3 +23,8 @@ Gurdon tuvieron un alto impacto que recibieron el premio Nobel de Medicina en el
 celular parcial transforma las células somáticas en otros tipos de células somáticas mediante la expresión 
 transitoria de genes de pluripotencia, generando intermediarios que conservan su identidad celular original, 
 pero que responden a cócteles apropiados de factores de diferenciación específicos.
+
+## Grupos de investigación enfocados con la reprogramación celular
+Varias instituciones y centros de investigación en todo el mundo como la Universidad de Standford, el Instituto Salk 
+y la Facultad de Medicina de Harvad han demostrado que la reprogramación puede revertir drásticamente los fenotipos 
+relacionados con la edad en el ojo, los músculos y otros tejidos.
