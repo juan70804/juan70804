@@ -1,14 +1,16 @@
-- 👋 Hi, I’m @juan70804
-- 👀 I’m interested in ...
+- 👋 Hola, soy @juan70804
+- 👀 I’m interested in Biotecología
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me valenzuelaosunaj.301@gmail.com
 
 <!---
 juan70804/juan70804 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 # El antienvejecimiento, cada vez más cerca de nosotros 
+
+# ![imagenprincipal](https://user-images.githubusercontent.com/54455898/150591693-6c8197f3-6f57-4976-86a7-c8aa0c8d0470.jpg)
 
 ## Factores de Yamanaka
 Los factores de transcripción de Yamanaka son considerados un grupo de factores de transcripción
