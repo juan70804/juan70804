@@ -28,3 +28,12 @@ pero que responden a cócteles apropiados de factores de diferenciación especí
 Varias instituciones y centros de investigación en todo el mundo como la Universidad de Standford, el Instituto Salk 
 y la Facultad de Medicina de Harvad han demostrado que la reprogramación puede revertir drásticamente los fenotipos 
 relacionados con la edad en el ojo, los músculos y otros tejidos.
+
+### Cuadro 1. Empresas que exploran la reprogramación parcial como mecanismo de rejuvenecimiento
+|Compañía |Fundado por |Enfoque | Publicaciones relevantes |
+| -------- | -------- | -------- | -------- |
+| Calico Life Sciences/Alphabet (South San Francisco, CA)| Bill Maris y Arthur Levinson en 2013 | Investigación básica en biología de la reprogramación parcial| Roux, A. *et al*. Preprint at *bioRxiv* https://doi.org/10.1101/2021.05.21.444556 (2020)|
+| Life Biosciences (Cambridge, MA)| David Sinclair y Tristan Edwards en 2017 | Desarrollo preclínico de la administración de AAV de genes de factores de reprogramación bajo control externo basado en fármacos | Lu, Y. *et al*. Nature **588**, 124 (2020)|
+| Turn Biotechnologies (Mountain View, CA)| Vittorio Sebastiano, Marco Quarta y Jay Sarkar in 2019 | Desarrollo preclínico de la entrega basada en ARNm de factores de reprogramación| Sarkar, T. J. *et al*. Nat. Commun. **11**, 1545 (2020)|
+
+
