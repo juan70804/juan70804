@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 --->
 # El antienvejecimiento, cada vez más cerca de nosotros 
 
-# ![imagenprincipal](https://user-images.githubusercontent.com/54455898/150591693-6c8197f3-6f57-4976-86a7-c8aa0c8d0470.jpg)
+# ![imagenprincipal](https://user-images.githubusercontent.com/54455898/150591693-6c8197f3-6f57-4976-86a7-c8aa0c8d0470.jpg "Células madre")
 
 ## Factores de Yamanaka
 Los factores de transcripción de **Yamanaka** son considerados un grupo de factores de transcripción
