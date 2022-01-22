@@ -1,5 +1,5 @@
 - 👋 Hola, soy @juan70804
-- 👀 I’m interested in Biotecología
+- 👀 I’m interested in Biotecnología
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me valenzuelaosunaj.301@gmail.com
