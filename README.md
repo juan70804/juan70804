@@ -12,17 +12,23 @@ You can click the Preview link to take a look at your changes.
 
 # ![imagenprincipal](https://user-images.githubusercontent.com/54455898/150591693-6c8197f3-6f57-4976-86a7-c8aa0c8d0470.jpg "Células madre")
 
+## Envejecimiento, una condición casi inevitable 
+El envejecimiento es un proceso complejo que afecta a todos los seres humanos y conlleva una mayor susceptibilidad
+de contraer diferentes enfermedades, disfución tisular e incluso la muerte. Hechos como la generación 
+de células madre pluripotentes inducidas, han brindado evidencia preliminar de 
+que podría ser posible ralentizar y revertir el proceso de envejecimiento
+
 ## Factores de Yamanaka
 Los factores de transcripción de **Yamanaka** son considerados un grupo de factores de transcripción
-de proteínas incolucrados en la sintesis de células madre pluripotentes inducidas, normalmente 
-llamadas como iPSCs.
+de proteínas involucrados en la sintesis de células madre **pluripotentes inducidas**, normalmente 
+llamadas como **iPSCs**.
 
-## Reprogramación parcial
+## Reprogramación celular
 El descubrimiento de los factores de transcripción por el profesor Shinya Yamanaka y John Bertrand 
-Gurdon tuvieron un alto impacto que recibieron el premio Nobel de Medicina en el año 2012. La reprogramación 
-celular parcial transforma las células somáticas en otros tipos de células somáticas mediante la expresión 
-transitoria de genes de pluripotencia, generando intermediarios que conservan su identidad celular original, 
-pero que responden a cócteles apropiados de factores de diferenciación específicos.
+Gurdon tuvieron un alto impacto que recibieron el premio Nobel de Medicina en el año 2012. Se ha reportado que 
+la reprogramación celular mediante la expresión transitoria de factores de Yamanaka mejora los síntomas asociados 
+con la edad, prolonga la vida útil en ratones **progeroides** (enfermedades poco frecuentes que causan envejecimiento 
+prematuro y acortan la esperanza de vida) y mejora la homeostasis tisular en ratones más viejos.
 
 ## Grupos de investigación enfocados con la reprogramación celular
 Varias instituciones y centros de investigación en todo el mundo como la Universidad de Standford, el Instituto Salk 
